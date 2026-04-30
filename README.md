@@ -14,7 +14,7 @@
 - 🌱 Always learning: **Microservices**, **Cloud Architecture**, **AI integrations**
 - 🔌 Open-source author: **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/)** on WordPress.org
 - 💬 Ask me about: `PHP`, `Laravel`, `Node.js`, `Vue.js`, `REST APIs`, `MySQL`
-- 📫 Reach me: **saiful.dhaka@gmail.com**
+- 📫 Reach me: **abssaiful@gmail.com**
 - 🔗 LinkedIn: [abubakar-siddique-61013822](https://www.linkedin.com/in/abubakar-siddique-61013822/)
 
 ---
@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/abubakar-siddique-61013822/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:saiful.dhaka@gmail.com">
+  <a href="mailto:abssaiful@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/saifuldhaka" target="_blank">
