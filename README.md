@@ -48,8 +48,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 [Hospital Management System](https://github.com/saifuldhaka) | Full HMS with patient records, appointment scheduling, billing & reporting | Laravel, Vue.js, MySQL |
-| 💬 [WhatsApp Booking System](https://github.com/saifuldhaka) | Automated appointment booking via WhatsApp Business API | Node.js, WhatsApp API |
+| 🏥 [Hospital Management System](https://github.com/saifuldhaka) | Full HMS with patient records, appointment scheduling, billing & reporting | Laravel, React, MySQL |
+| 💬 [WhatsApp Booking System](https://github.com/saifuldhaka) | Automated appointment booking via WhatsApp Business API | Node.js, WhatsApp API, React, PostGreSQL |
 | 🎨 [ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard) | WordPress plugin — canvas-based photocard editor with Facebook posting | PHP, JavaScript, Canvas API |
 | 🚗 [Car Inspection App](https://github.com/saifuldhaka/car-inspection) | Mobile-friendly car inspection checklist & report generator | Laravel, Vue.js |
 | 🔑 [Unique Code Generator](https://github.com/saifuldhaka/GENERATE-UNIQUE-CODE) | Bulk unique code generation utility | PHP |
@@ -60,7 +60,8 @@
 ## 📦 Open Source
 
 ### WordPress Plugins
-- 🔌 **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/ )** — Canvas-based photocard editor with one-click Facebook posting. Free & open-source (GPL v2).
+- 🔌 **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/ )** — ezy E Invoice** makes creating and sending professional e-invoices effortless. Build your client list, link your products (with optional WooCommerce sync), and fire off a branded PDF invoice by email in just a few clicks. Free & open-source (GPL v2).
+- 🔌 **[ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard) | WordPress plugin — canvas-based photocard editor with Facebook posting | PHP, JavaScript, Canvas API. Free & open-source (GPL v2).
 
 ---
 
