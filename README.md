@@ -12,7 +12,7 @@
 - 🌏 Based in **Kuala Lumpur, Malaysia**
 - 🔭 Currently building: **Hospital Management Systems**, **WhatsApp Booking Systems** & **SaaS platforms**
 - 🌱 Always learning: **Microservices**, **Cloud Architecture**, **AI integrations**
-- 🔌 Open-source author: **[ezy WP Social Media Photocard](https://wordpress.org/plugins/ezy-wp-social-media-photocard/)** on WordPress.org
+- 🔌 Open-source author: **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/)** on WordPress.org
 - 💬 Ask me about: `PHP`, `Laravel`, `Node.js`, `Vue.js`, `REST APIs`, `MySQL`
 - 📫 Reach me: **saiful.dhaka@gmail.com**
 - 🔗 LinkedIn: [abubakar-siddique-61013822](https://www.linkedin.com/in/abubakar-siddique-61013822/)
@@ -60,7 +60,7 @@
 ## 📦 Open Source
 
 ### WordPress Plugins
-- 🔌 **[ezy WP Social Media Photocard](https://wordpress.org/plugins/ezy-wp-social-media-photocard/)** — Canvas-based photocard editor with one-click Facebook posting. Free & open-source (GPL v2).
+- 🔌 **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/ )** — Canvas-based photocard editor with one-click Facebook posting. Free & open-source (GPL v2).
 
 ---
 
