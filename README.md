@@ -1,109 +1,72 @@
 # Hi there, I'm Mohammad Abubakar Siddique 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Software+Architect+%7C+13%2B+Years;PHP+%7C+Laravel+%7C+Node.js+%7C+Vue.js;Open-Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+### Senior Full-Stack Developer & Software Architect · Kuala Lumpur, Malaysia
+
+I build web applications, business systems, and WordPress plugins. With **13+ years of experience**, my work spans backend development, frontend interfaces, API integrations, and software architecture.
+
+[Website](https://ehut.tech) · [LinkedIn](https://www.linkedin.com/in/abubakar-siddique-61013822/) · [Email me](mailto:abssaiful@gmail.com)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Senior Full-Stack Developer & Software Architect** with **13+ years** of experience
-- 🌏 Based in **Kuala Lumpur, Malaysia**
-- 🔭 Currently building: **Hospital Management Systems**, **WhatsApp Booking Systems** & **SaaS platforms**
-- 🌱 Always learning: **Microservices**, **Cloud Architecture**, **AI integrations**
-- 🔌 Open-source author: **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/)** on WordPress.org
-- 💬 Ask me about: `PHP`, `Laravel`, `Node.js`, `Vue.js`, `REST APIs`, `MySQL`
-- 📫 Reach me: **abssaiful@gmail.com**
-- 🔗 LinkedIn: [abubakar-siddique-61013822](https://www.linkedin.com/in/abubakar-siddique-61013822/)
-
----
+- 🏢 **Senior Full-Stack Developer & Software Architect** based in **Kuala Lumpur, Malaysia**.
+- 🔭 Working on **Hospital Management Systems**, **WhatsApp Booking Systems**, and **SaaS platforms**.
+- 🔌 Developing **WordPress plugins** and open-source utilities.
+- 🌱 Exploring **microservices**, **cloud architecture**, and **AI integrations**.
+- 💬 Ask me about **PHP, Laravel, Node.js, Vue.js, REST APIs, and MySQL**.
+- 📫 Contact: **[abssaiful@gmail.com](mailto:abssaiful@gmail.com)**.
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Area | Technologies |
+|---|---|
+| Languages | PHP, JavaScript, Python |
+| Backend | Laravel, Node.js, REST APIs |
+| Frontend | Vue.js, React |
+| Databases & caching | MySQL, PostgreSQL, MongoDB, Redis |
+| Platforms | WordPress, WooCommerce |
+| Infrastructure & tools | Linux, Nginx, Docker, AWS, Git |
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 Selected Projects
 
-### Tools & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Public Repositories
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
+| Project | Overview | Technologies |
 |---|---|---|
-| 🏥 [Hospital Management System](https://github.com/saifuldhaka) | Full HMS with patient records, appointment scheduling, billing & reporting | Laravel, React, MySQL |
-| 💬 [WhatsApp Booking System](https://github.com/saifuldhaka) | Automated appointment booking via WhatsApp Business API | Node.js, WhatsApp API, React, PostGreSQL |
-| 🎨 [ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard) | WordPress plugin — canvas-based photocard editor with Facebook posting | PHP, JavaScript, Canvas API |
-| 🚗 [Car Inspection App](https://github.com/saifuldhaka/car-inspection) | Mobile-friendly car inspection checklist & report generator | Laravel, Vue.js |
-| 🔑 [Unique Code Generator](https://github.com/saifuldhaka/GENERATE-UNIQUE-CODE) | Bulk unique code generation utility | PHP |
-| 🌐 [Meridian Multi-Language](https://github.com/saifuldhaka) | Enterprise multi-language web platform | Laravel, MySQL |
+| [ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard) | WordPress photocard editor using browser canvas technology. See the repository for setup and integration requirements. | PHP, JavaScript, Canvas API |
+| [Car Inspection App](https://github.com/saifuldhaka/car-inspection) | Car inspection checklist and reporting application. | Laravel, Vue.js |
+| [Unique Code Generator](https://github.com/saifuldhaka/GENERATE-UNIQUE-CODE) | PHP utility for generating unique codes in bulk. | PHP |
 
----
+**For older repositories:** check their documented runtime requirements before use. A public repository should not be treated as a guarantee of compatibility with current production environments.
 
-## 📦 Open Source
+### Other Project Experience
 
-### WordPress Plugins
-- 🔌 **[ezy E Invoice]( https://wordpress.org/plugins/ezy-e-invoice/ )** — ezy E Invoice** makes creating and sending professional e-invoices effortless. Build your client list, link your products (with optional WooCommerce sync), and fire off a branded PDF invoice by email in just a few clicks. Free & open-source (GPL v2).
-- 🔌 **[ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard) | WordPress plugin — canvas-based photocard editor with Facebook posting | PHP, JavaScript, Canvas API. Free & open-source (GPL v2).
+These projects are listed as experience summaries; repository or demo links are not included here.
 
----
+| Project | Focus | Technologies |
+|---|---|---|
+| Hospital Management System | Patient records, appointments, billing, and reporting | Laravel, React, MySQL |
+| WhatsApp Booking System | Appointment booking through WhatsApp Business API integration | Node.js, React, PostgreSQL |
+| Meridian Multi-Language | Multi-language web platform | Laravel, MySQL |
 
-## 📊 GitHub Stats
+## 📦 WordPress & Open Source
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifuldhaka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifuldhaka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+- **[ezy E Invoice](https://wordpress.org/plugins/ezy-e-invoice/)** — WordPress invoice plugin with client and product management, PDF invoices, and email delivery.
+- **[ezy WP Social Media Photocard](https://github.com/saifuldhaka/ezy-WP-Social-Media-Photocard)** — Canvas-based photocard editing for WordPress. Refer to the repository documentation for available features and external-service requirements.
+- **[Unique Code Generator](https://github.com/saifuldhaka/GENERATE-UNIQUE-CODE)** — A reusable PHP code-generation utility.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifuldhaka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
+## 📊 GitHub Activity
 
----
-
-## 🏆 GitHub Achievements
-
-- 🦈 **Pull Shark** × 3
-- ⚡ **Quickdraw**
-
----
+[Browse my repositories](https://github.com/saifuldhaka?tab=repositories) to explore my public code and project documentation.
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abubakar-siddique-61013822/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abssaiful@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/saifuldhaka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://ehut.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+- **Email:** [abssaiful@gmail.com](mailto:abssaiful@gmail.com)
+- **LinkedIn:** [Mohammad Abubakar Siddique](https://www.linkedin.com/in/abubakar-siddique-61013822/)
+- **Website:** [ehut.tech](https://ehut.tech)
+- **GitHub:** [@saifuldhaka](https://github.com/saifuldhaka)
 
 ---
 
-<p align="center">
-  <i>⭐ Star my repos if you find them useful!</i>
-</p>
+If a project helps you, a star is always appreciated. ⭐
